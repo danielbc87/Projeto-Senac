@@ -91,14 +91,3 @@
 
 ---
 
-## Interações
-
-- **Tela de Login > Entrar**: Redireciona para o Painel de Controle.
-- **Tela de Login > Registrar-se**: Redireciona para a Tela de Cadastro de Pessoa Física ou Jurídica, dependendo da seleção.
-- **Painel de Controle > Aluno**: Redireciona para a Tela de Cadastro de Aluno.
-- **Painel de Controle > Professor**: Redireciona para a Tela de Cadastro de Professor.
-- **Painel de Controle > Fornecedor**: Redireciona para a Tela de Cadastro de Fornecedor.
-- **Painel de Controle > Lançar Notas**: Redireciona para a Tela de Lançamento de Notas.
-- **Painel de Controle > Visualizar Notas**: Redireciona para a Tela de Visualização de Notas.
-- **Painel de Controle > Registrar Entrega**: Redireciona para a Tela de Registro de Entregas.
-- **Painel de Controle > Sair**: Retorna à Tela de Login.
