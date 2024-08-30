@@ -10,7 +10,6 @@
   - **Esqueci minha senha**: Redireciona para a tela de recuperação de senha.
 - **Links**:
   - **Registrar-se**: Redireciona para a tela de cadastro de novo usuário.
-
 ![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Tela%20Login.jpg)
 ---
 
