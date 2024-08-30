@@ -10,7 +10,7 @@
   - **Esqueci minha senha**: Redireciona para a tela de recuperação de senha.
 - **Links**:
   - **Registrar-se**: Redireciona para a tela de cadastro de novo usuário.
-![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Tela%20Login.jpg)
+![](https://github.com/danielbc87/Projeto-Senac/blob/danielbc87-patch-1/Tela%20Login.jpg)
 ---
 
 ## Tela 2: Tela de Cadastro de Pessoa Física
