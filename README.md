@@ -7,9 +7,10 @@
   - **Senha**: Campo de entrada para a senha do usuário.
 - **Botões**:
   - **Entrar**: Autentica o usuário e redireciona para o painel de controle.
-  - **Esqueci minha senha**: Redireciona para a tela de recuperação de senha.
-- **Links**:
   - **Registrar-se**: Redireciona para a tela de cadastro de novo usuário.
+- **Links**:
+- **Esqueci minha senha**: Redireciona para a tela de recuperação de senha.
+ 
 
 ![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Tela%20Login.jpg)
 ---
