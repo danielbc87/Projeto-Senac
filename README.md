@@ -7,10 +7,9 @@
   - **Senha**: Campo de entrada para a senha do usuário.
 - **Botões**:
   - **Entrar**: Autentica o usuário e redireciona para o painel de controle.
-  - **Registrar-se**: Redireciona para a tela de cadastro de novo usuário.
+  - **Esqueci minha senha**: Redireciona para a tela de recuperação de senha.
 - **Links**:
-- **Esqueci minha senha**: Redireciona para a tela de recuperação de senha.
- 
+  - **Registrar-se**: Redireciona para a tela de cadastro de novo usuário.
 
 ![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Tela%20Login.jpg)
 ---
@@ -26,8 +25,8 @@
 - **Botões**:
   - **Cadastrar**: Registra o usuário e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
-![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Cadastro%20Pessoa%20F%C3%ADsica.jpg)
----
+  ![](https://github.com/danielbc87/Projeto-Senac/blob/danielbc87-patch-1/Cadastro%20Pessoa%20F%C3%ADsica.jpg)
+------
 
 ## Tela 3: Tela de Cadastro de Pessoa Jurídica
 
@@ -40,7 +39,7 @@
 - **Botões**:
   - **Cadastrar**: Registra a empresa e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
-![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Cadastro%20Jur%C3%ADdica.jpg)
+  ![](https://github.com/danielbc87/Projeto-Senac/blob/danielbc87-patch-1/Cadastro%20Jur%C3%ADdica.jpg)
 ---
 
 ## Tela 4: Tela de Cadastro de Professor
@@ -55,8 +54,7 @@
 - **Botões**:
   - **Cadastrar**: Registra o professor e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
-  - 
-![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Cadastro%20Professores.jpg)
+  ![](https://github.com/danielbc87/Projeto-Senac/blob/danielbc87-patch-1/Cadastro%20Professores.jpg)
 ---
 
 ## Tela 5: Tela de Cadastro de Fornecedor
@@ -71,8 +69,7 @@
 - **Botões**:
   - **Cadastrar**: Registra o fornecedor e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
-
-![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Cadastro%20Fornecedores.jpg)
+  ![](https://github.com/danielbc87/Projeto-Senac/blob/danielbc87-patch-1/Cadastro%20Fornecedores.jpg)
 ---
 
 ## Tela 6: Tela de Cadastro de Aluno
@@ -87,8 +84,5 @@
 - **Botões**:
   - **Cadastrar**: Registra o aluno e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
- 
-    ![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Cadastro_Aluno.jpg)
 
----
-
+---![](https://github.com/danielbc87/Projeto-Senac/blob/danielbc87-patch-1/Cadastro_Aluno.jpg)
