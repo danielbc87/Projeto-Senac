@@ -25,7 +25,7 @@
 - **Botões**:
   - **Cadastrar**: Registra o usuário e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
-
+![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Cadastro%20Pessoa%20F%C3%ADsica.jpg)
 ---
 
 ## Tela 3: Tela de Cadastro de Pessoa Jurídica
@@ -39,7 +39,7 @@
 - **Botões**:
   - **Cadastrar**: Registra a empresa e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
-
+![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Cadastro%20Jur%C3%ADdica.jpg)
 ---
 
 ## Tela 4: Tela de Cadastro de Professor
@@ -54,7 +54,8 @@
 - **Botões**:
   - **Cadastrar**: Registra o professor e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
-
+  - 
+![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Cadastro%20Professores.jpg)
 ---
 
 ## Tela 5: Tela de Cadastro de Fornecedor
@@ -70,6 +71,7 @@
   - **Cadastrar**: Registra o fornecedor e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
 
+![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Cadastro%20Fornecedores.jpg)
 ---
 
 ## Tela 6: Tela de Cadastro de Aluno
@@ -84,24 +86,8 @@
 - **Botões**:
   - **Cadastrar**: Registra o aluno e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
-
----
-
-## Tela 7: Painel de Controle
-
-- **Seções**:
-  - **Perfil**: Mostra informações do usuário logado e permite edição.
-  - **Cadastro**:
-    - **Aluno**: Link para a tela de cadastro de alunos.
-    - **Professor**: Link para a tela de cadastro de professores.
-    - **Fornecedor**: Link para a tela de cadastro de fornecedores.
-  - **Outras Funcionalidades**:
-    - **Lançar Notas** (apenas para professores): Link para a tela de lançamento de notas.
-    - **Visualizar Notas** (apenas para alunos): Link para a tela de visualização de notas.
-    - **Registrar Entrega** (apenas para fornecedores): Link para a tela de registro de entregas.
-
-- **Botões**:
-  - **Sair**: Desloga o usuário e retorna à tela de login.
+ 
+    ![](https://github.com/danielbc87/Projeto-Senac/blob/Vers%C3%A3o-2_Teste/Cadastro_Aluno.jpg)
 
 ---
 
