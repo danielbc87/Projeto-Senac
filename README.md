@@ -25,6 +25,7 @@
 - **Botões**:
   - **Cadastrar**: Registra o usuário e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
+    
   ![](https://github.com/danielbc87/Projeto-Senac/blob/danielbc87-patch-1/Cadastro%20Pessoa%20F%C3%ADsica.jpg)
 ------
 
@@ -55,6 +56,7 @@
 - **Botões**:
   - **Cadastrar**: Registra o professor e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
+    
   ![](https://github.com/danielbc87/Projeto-Senac/blob/danielbc87-patch-1/Cadastro%20Professores.jpg)
 ---
 
@@ -70,6 +72,7 @@
 - **Botões**:
   - **Cadastrar**: Registra o fornecedor e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
+    
   ![](https://github.com/danielbc87/Projeto-Senac/blob/danielbc87-patch-1/Cadastro%20Fornecedores.jpg)
 ---
 
