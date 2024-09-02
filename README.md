@@ -39,6 +39,7 @@
 - **Botões**:
   - **Cadastrar**: Registra a empresa e redireciona para o painel de controle.
   - **Voltar**: Retorna à tela de login.
+  - 
   ![](https://github.com/danielbc87/Projeto-Senac/blob/danielbc87-patch-1/Cadastro%20Jur%C3%ADdica.jpg)
 ---
 
